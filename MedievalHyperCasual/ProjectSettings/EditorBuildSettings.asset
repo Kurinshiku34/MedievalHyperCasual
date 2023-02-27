@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Street.unity
+    guid: c4db126c21608844584be7564d8b70cc
+  - enabled: 1
+    path: Assets/Scenes/Khan1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Khan2.unity
+    guid: b8bb563f13555f74d9eb3d2a7fb298e1
+  m_configObjects: {}
